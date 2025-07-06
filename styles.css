@@ -4,6 +4,15 @@
     border: 5px solid orange;
 }
 
-.succ{
+.succ {
     border: 20px dotted blue;
+}
+
+.inc {
+    margin: 20px;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 10px solid darkseagreen;
+    padding: 10px;
+    border-radius: 10px;
 }
